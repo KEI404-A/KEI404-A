@@ -129,10 +129,10 @@ const kei404a = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🟡 Pacman Game Const
 
 <div align="center">
-  <img src="https://github.com/KEI404-A/KEI404-A/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-pacman.svg" alt="Pacman eating contributions" />
 </div>
 
 ---
