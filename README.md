@@ -138,10 +138,13 @@ const kei404a = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KEI404-A&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=KEI404-A&label=Profile%20views&color=0e75b6&style=flat)
+
   ### 🎵 Currently Vibing To
-  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="KEI404-A's Spotify Playing" width="350" />
+
+  [![Spotify Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31zzvau32i3uvlp2kebe7bdgyime&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31zzvau32i3uvlp2kebe7bdgyime)
+
 </div>
 
 ---
