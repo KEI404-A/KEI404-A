@@ -132,7 +132,7 @@ const kei404a = {
 ## 🟡 Pacman Game Const
 
 <div align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-pacman.svg" alt="Pacman eating contributions" />
+  <img src="https://raw.githubusercontent.com/KEI404-A/KEI404-A/output/github-contribution-grid-pacman.svg" alt="Pacman eating contributions" />
 </div>
 
 ---
