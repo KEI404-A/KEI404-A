@@ -12,21 +12,18 @@
 
 ## 🚀 About Me
 
-```javascript
-const kei404a = {
-    pronouns: ["He", "Him"],
-    location: "Indonesia 🇮🇩",
-    currentFocus: "Building amazing web applications",
-    technologies: {
-        frontEnd: ["React", "Vue.js", "JavaScript", "TypeScript", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Python", "Express", "Django"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        tools: ["Docker", "Git", "VS Code", "Figma"]
-    },
-    currentlyLearning: ["Next.js", "GraphQL", "AWS"],
-    hobbies: ["Coding", "Gaming", "Photography", "Coffee ☕"]
-};
-```
+- **Pronouns**: He / Him  
+- **Location**: Indonesia 🇮🇩  
+- **Current Focus**: Building amazing web applications  
+
+**🛠️ Technologies I use:**
+- **Front-End**: React, Vue.js, JavaScript, TypeScript, HTML5, CSS3  
+- **Back-End**: Node.js, Python, Express, Django  
+- **Databases**: MongoDB, PostgreSQL, MySQL  
+- **Tools**: Docker, Git, VS Code, Figma  
+
+**🌱 Currently Learning**: Next.js, GraphQL, AWS  
+**🎯 Hobbies**: Coding, Gaming, Photography, Coffee ☕
 
 ---
 
